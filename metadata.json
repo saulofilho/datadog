@@ -1,0 +1,6 @@
+{
+  "name": "Datadog Monitor Alerter",
+  "description": "Monitoramento de alertas críticos de latência e erro no Datadog com autenticação via email e senha e notificações push em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
